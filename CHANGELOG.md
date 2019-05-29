@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Add graphql instrumentation ([graphql](https://www.npmjs.com/package/graphql)).
+
 ## 1.68.1
 - Log a warning instead of info when running an unsupported Node.js version.
 
